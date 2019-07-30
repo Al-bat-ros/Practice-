@@ -1,17 +1,3 @@
-.header {
-  font-size: 15px;
-  text-transform: uppercase;
-  line-height: 1.5;
-}
-.header span {
-  display: block;
-}
-.section-header {
-  background-color: #0f0f0f;
-}
-span {
-  font-size: 2px;
-  text-transform: uppercase;
-  line-height: 1.5;
-  background-color: #0f0f0f;
+p {
+  background-color: #0b2e13;
 }
