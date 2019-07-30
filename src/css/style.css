@@ -2,7 +2,7 @@ body {
     text-align: center;
 }
 .header {
-    width: 90%;
+    width: 97%;
     height: 240px;
     background-color: #fff794;
     margin-bottom: 2%;
@@ -21,4 +21,14 @@ body {
     width: 70%;
     height: 500px;
     background-color: #ab94ff;
+}
+
+@media (min-width: 300px) and (max-width: 600px) {
+    .content {
+        width: 95%;
+    }
+    .menu {
+        width: 95%;
+    }
+
 }
