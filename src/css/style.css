@@ -2,23 +2,23 @@ body {
     text-align: center;
 }
 .header {
-    width: 1300px;
+    width: 90%;
     height: 240px;
     background-color: #fff794;
-    margin-bottom: 20px;
-    margin-top: 20px;
+    margin-bottom: 2%;
+    margin-top: 2%;
     display: inline-block;
 }
 .menu {
     display:inline-block;
-    width: 370px;
+    width: 25%;
     height: 500px;
     background-color: #94ff97;
 }
 .content {
-    margin-left: 20px;
+    margin-left: 2%;
     display: inline-block;
-    width: 910px;
+    width: 70%;
     height: 500px;
     background-color: #ab94ff;
 }
